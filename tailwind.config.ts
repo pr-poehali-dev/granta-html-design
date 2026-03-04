@@ -23,6 +23,12 @@ export default {
 				'golos': ['Golos Text', 'sans-serif'],
 			},
 			colors: {
+				lada: {
+					blue: '#1a4fa0',
+					'blue-dark': '#0d3270',
+					'blue-light': '#3b72c8',
+					sky: '#e8f0fb',
+				},
 				border: 'hsl(var(--border))',
 				input: 'hsl(var(--input))',
 				ring: 'hsl(var(--ring))',
